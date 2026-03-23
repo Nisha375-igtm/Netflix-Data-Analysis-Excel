@@ -12,8 +12,8 @@ Show ID, Type, Title, Director, Country, Release Year, Date Added, Rating, Durat
 -Structured raw data into pivot-ready format for analysis
 
 ## Analysis Sheets & Insights
-Count — Movies vs TV Shows
-
+# Count — Movies vs TV Shows
+ 
    6,126 Movies vs 2,664 TV Shows on Netflix
 
 Rating Count — Content by Age Rating
