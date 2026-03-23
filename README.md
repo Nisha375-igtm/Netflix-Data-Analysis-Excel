@@ -16,27 +16,27 @@ Show ID, Type, Title, Director, Country, Release Year, Date Added, Rating, Durat
  
    6,126 Movies vs 2,664 TV Shows on Netflix
 
-Rating Count — Content by Age Rating
+### Rating Count — Content by Age Rating
 
    Distribution of titles across ratings like G, PG, TV-MA, NC-17 etc.
 
-Top 10 Countries — Content by Country
+### Top 10 Countries — Content by Country
 
   Canada (271) and France (213) among top contributing countries
 
-Month Release — Monthly Content Additions
+### Month Release — Monthly Content Additions
 
    Breakdown of Movies and TV Shows added per month to identify peak upload periods
 
-Year Release — Yearly Content Trends
+### Year Release — Yearly Content Trends
 
    Year-wise growth of Movies and TV Shows on the platform
 
-Top 10 Shows & Movies — Genre Analysis
+### Top 10 Shows & Movies — Genre Analysis
 
    Children & Family Movies (215) and Comedies as top genres
 
-Top 15 Directors — Most Featured Directors
+### Top 15 Directors — Most Featured Directors
 
    Alastair Fothergill (8 titles) among top directors on the platform
 
