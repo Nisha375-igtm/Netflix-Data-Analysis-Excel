@@ -8,7 +8,9 @@ Show ID, Type, Title, Director, Country, Release Year, Date Added, Rating, Durat
 ## Data Cleaning & Preparation
 
 -Extracted Year and Month from date_added column using Excel formulas
+
 -Removed duplicates and handled missing values
+
 -Structured raw data into pivot-ready format for analysis
 
 ## Analysis Sheets & Insights
@@ -47,5 +49,7 @@ Show ID, Type, Title, Director, Country, Release Year, Date Added, Rating, Durat
 ## Key Learnings
 
 -Practiced end-to-end data cleaning and transformation in Excel
+
 -Built pivot tables to summarize and analyze large datasets
+
 -Identified content trends across time, geography, and genre
